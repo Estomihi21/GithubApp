@@ -75,9 +75,9 @@
                     android:id="@+id/et_Query"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:background="@color/grey"
                     android:hint="@string/hint_search"
                     android:inputType="text"
-                    android:background="@color/grey"
                     android:maxLines="1"
                     android:textColor="@color/white"
                     android:textColorHint="@color/grey" />
